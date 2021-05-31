@@ -21,5 +21,5 @@ npm run build
 ```
 
 # About
-This is a small project I have created as a reference when working with Vue, Vue Router & Vuex.
+This is a small project I created as a reference when working with Vue, Vue Router & Vuex.
 It acts as a to-do list & uses a REST API provided by JSON-server
