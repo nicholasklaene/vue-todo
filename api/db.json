@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "description": "Learn Typescript",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "description": "Do it",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "description": "More",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "description": "Finish project",
+      "completed": false,
+      "id": 7
+    }
+  ]
+}
