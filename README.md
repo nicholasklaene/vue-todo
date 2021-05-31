@@ -1,4 +1,4 @@
-# vue-todo
+# Vue To-do (w/ Vuex & Vue Router)
 
 ## Project setup
 ```
@@ -10,10 +10,16 @@ npm install
 npm run serve
 ```
 
+### Starts the JSON Server API
+```
+npx json-server --watch api/db.json
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#About
+This is a small project I have created as a reference when working with Vue, Vue Router & Vuex.
+It acts as a to-do list & uses a REST API provided by JSON-server
