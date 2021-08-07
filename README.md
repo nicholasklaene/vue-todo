@@ -1,4 +1,4 @@
-# Vue To-do (w/ Vuex & Vue Router)
+# Vue To-do (w/ Vuex & Router)
 
 ## Project setup
 ```
@@ -21,5 +21,4 @@ npm run build
 ```
 
 # About
-This is a small project I created as a reference when working with Vue, Vue Router & Vuex.
-It acts as a to-do list & uses a REST API provided by JSON-server
+Boilerplate project for Vue w/ Router & Vuex.
